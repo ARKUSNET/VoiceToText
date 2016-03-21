@@ -1,0 +1,16 @@
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\Voice to Text.exe.config
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\Voice to Text.exe
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\Voice to Text.pdb
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice to Text.csprojResolveAssemblyReference.cache
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice_to_Text.Form1.resources
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice_to_Text.Properties.Resources.resources
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice to Text.csproj.GenerateResource.Cache
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice to Text.exe
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\obj\Debug\Voice to Text.pdb
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\CUETools.Codecs.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\CUETools.Codecs.FLAKE.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\CUETools.Codecs.FLAKE.pdb
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\CUETools.Codecs.pdb
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\Newtonsoft.Json.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Debug\Newtonsoft.Json.xml

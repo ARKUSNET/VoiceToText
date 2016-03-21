@@ -1,0 +1,4 @@
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Release\Voice to Text.exe
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Release\CUETools.Codecs.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Release\CUETools.Codecs.FLAKE.dll
+c:\users\adm_akuspakov\documents\visual studio 2013\Projects\Voice to Text\Voice to Text\bin\Release\Newtonsoft.Json.dll
